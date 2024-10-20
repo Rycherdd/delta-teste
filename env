@@ -1,0 +1,11 @@
+#--------------------------------------------------------------------
+# DATABASE
+#--------------------------------------------------------------------
+
+database.default.hostname = localhost
+database.default.database = escola
+database.default.username = root
+database.default.password = 1234
+database.default.DBDriver = MySQLi        
+database.default.DBPrefix =
+database.default.port = 3306        
