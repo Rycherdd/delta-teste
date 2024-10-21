@@ -8,7 +8,7 @@ Instruções para rodar o projeto
 - PHP;
 - Composer;
 
-- Rode dentro do diretorio delta-front: npm run start
+- Rode dentro do diretorio delta-front: npm start
 - Configure o CodeIgniter
 
 - Configure as envs do banco de dados 
